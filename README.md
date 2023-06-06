@@ -1,1 +1,1 @@
-java script
+scopes closures
